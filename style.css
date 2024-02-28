@@ -361,8 +361,13 @@ div a{
     }
     .btn1{
         margin: 0px 20px;
+        padding: 6px 25px;
     }
-}
+    .btn2{
+        padding: 7px 16px;
+    }
+    }
+
 
 @media screen and (max-width: 600px) {
   
@@ -371,8 +376,13 @@ div a{
     }
     .btn1{
         margin: 0px 15px;
+        padding: 6px 20px;
     }
-}
+    .btn2{
+        padding: 7px 15px;
+    }
+    }
+
 
 @media screen and (max-width: 450px) {
 
@@ -381,8 +391,14 @@ div a{
     }
     .btn1{
         margin: 0px 10px;
+        padding: 6px 12px;
     }
-}
+    .btn2{
+        padding: 7px 12px;
+        margin-right: 20px;
+    }
+    }
+
 
 @media screen and (max-width: 400px) {
 
@@ -391,6 +407,10 @@ div a{
     }
     .btn1{
         margin: 0px 0px;
+        padding: 6px 10px;
+    }
+    .btn2{
+        padding: 7px 10px;
     }
 }
 
